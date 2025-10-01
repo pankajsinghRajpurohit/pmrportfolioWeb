@@ -3,7 +3,7 @@ import React from "react";
 import Tilt from "react-parallax-tilt";
 import "../../index.css"
 
-import pmrdelta from './assets/work_logo/pmrdelta.png';
+import pmrdelta from '../../assets/work_logo/pmrdelta.png';
 
 const Experience = () => {
   return (
