@@ -3,7 +3,7 @@ import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
-import cLogo from "./assets/tech_logo/C.png"
+import cLogo from "./assets/tech_logo/c.png"
 import reduxLogo from './assets/tech_logo/redux.png';
 
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
