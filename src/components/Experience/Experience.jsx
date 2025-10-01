@@ -3,6 +3,8 @@ import React from "react";
 import Tilt from "react-parallax-tilt";
 import "../../index.css"
 
+import pmrdelta from './assets/work_logo/pmrdelta.png';
+
 const Experience = () => {
   return (
     <section
@@ -37,7 +39,8 @@ const Experience = () => {
           gyroscope={true}
         >
           <div className="flex items-center justify-center space-x-2 bg-transparent border-2 border-gray-700 rounded-3xl py-2 px-2 sm:py-2 sm:px-2 text-center">
-            <img src="src\components\Experience\pmrdelta.png" alt="" />
+         <img src={pmrdelta} alt="certificate" />
+
           </div>
         </Tilt>
       </div>

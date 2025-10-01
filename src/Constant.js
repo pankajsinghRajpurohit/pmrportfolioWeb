@@ -40,7 +40,7 @@ import Netflix from "./assets/work_logo/Netflix.png"
 import weather from "./assets/work_logo/weather.png"
 import githubdetLogo from './assets/work_logo/github_det.png';
 
-
+import pmrdelta from './assets/work_logo/pmrdelta.png';
 
 export const SkillsInfo = [
   {
